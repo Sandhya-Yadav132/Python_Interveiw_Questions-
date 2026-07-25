@@ -1,4 +1,98 @@
 
+Roadmap:
+
+### Part 1: Python Foundation
+✅ Python Data Types  
+- int
+- float
+- complex
+- bool
+- str
+- list
+- tuple
+- set
+- dict
+- None
+- bytes
+- bytearray
+- range
+
+✅ All important methods with practical examples
+
+
+### Part 2: Control Flow
+✅ if  
+✅ elif  
+✅ else  
+✅ for loop  
+✅ while loop  
+✅ for-else  
+✅ nested loops
+
+
+### Part 3: Functions & Functional Programming
+✅ lambda function  
+✅ map()  
+✅ filter()  
+✅ reduce()  
+✅ args  
+✅ kwargs  
+✅ packing and unpacking
+
+
+### Part 4: Advanced Python
+✅ Decorators  
+✅ Iterator  
+✅ Generator  
+✅ List comprehension  
+✅ Recursion
+
+
+### Part 5: Exception Handling
+✅ try  
+✅ except  
+✅ else  
+✅ finally  
+✅ custom exception  
+✅ exception hierarchy
+
+
+### Part 6: OOP Deep
+✅ Class and Object  
+✅ Constructor  
+✅ Instance variable  
+✅ Class variable  
+✅ Encapsulation  
+✅ Abstraction  
+✅ Polymorphism  
+- Method overriding
+- Method overloading
+
+✅ Class method vs Static method
+
+
+### Part 7: Python Internals
+✅ Memory Management  
+✅ Garbage Collector  
+✅ Reference Counting  
+✅ Mutable vs Immutable  
+✅ List vs Tuple memory  
+✅ Why tuple faster than list
+
+
+### Part 8: Advanced Concepts
+✅ Time Complexity  
+✅ Space Complexity  
+✅ Shallow Copy vs Deep Copy  
+✅ Monkey Patching  
+✅ Module vs Package  
+✅ Python 2 vs Python 3
+
+
+---
+
+
+
 # Python Interview Notes
 
 # Topic 1: Python Versions
